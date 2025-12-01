@@ -64,6 +64,8 @@ Then open a Pull Request from your fork to the main repository.
 ## Participants
 Turky Ahmed
 
+Marwan Bazighifan
+
 Add your name here when contributing
 
 ✨This project is about learning—don’t worry about mistakes!😉
