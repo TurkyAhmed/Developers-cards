@@ -66,7 +66,11 @@ Turky Ahmed
 
 Marwan Bazighifan
 
+<<<<<<< HEAD
 Saleh Ghulam
+=======
+Abdullah Bamaga
+>>>>>>> 9c6b59d909dadcf7af67ab0c27298925e6dc7dd5
 
 Add your name here when contributing
 
