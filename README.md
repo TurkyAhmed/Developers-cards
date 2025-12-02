@@ -68,6 +68,8 @@ Marwan Bazighifan
 
 Saleh Ghulam
 
+Abdullah Bamaga
+
 Add your name here when contributing
 
 ✨This project is about learning—don’t worry about mistakes!😉
