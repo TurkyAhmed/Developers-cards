@@ -27,7 +27,7 @@ Name the image using your name (example: turky.jpg).
 Copy the code below, update it with your own information, and paste it below the comment:
 <!-- Let Your Card here below of comment -->
 ```HTML
-<!-- Start Card -->
+<!-- Start Card (Your Name) -->
 <div class="card h-100 pb-5 border-0 shadow-lg card-hover text-center overflow-hidden">
     <img src="/imgs/your-name.jpg" class="card-img-top rounded-circle mx-auto mt-4" style="width: 120px; height: 120px; object-fit: cover" alt="Photo"/>
     <div class="card-body card-content">
